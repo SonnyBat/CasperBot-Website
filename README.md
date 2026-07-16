@@ -8,3 +8,4 @@
 <p>HTML | CSS | TAILWIND.CSS | JAVASCRIPT</p>
 <h4>Figma Design</h4>
 <p>You can find my original Figma Design <a href="https://www.figma.com/design/AAl4oEKMb305gFS1cgYQIB/Casper-Bot?node-id=0-1&t=z5mHjE2UuigI0Xf1-1">Here</a></p>
+<p>Old project moved from previous git</p>
