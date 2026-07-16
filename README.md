@@ -9,3 +9,5 @@
 <h4>Figma Design</h4>
 <p>You can find my original Figma Design <a href="https://www.figma.com/design/AAl4oEKMb305gFS1cgYQIB/Casper-Bot?node-id=0-1&t=z5mHjE2UuigI0Xf1-1">Here</a></p>
 <p>Old project moved from previous git</p>
+<h1>Click for Live Preview</h1>
+<a href="https://spectacular-buttercream-7b77e0.netlify.app/"><img src="https://i.gyazo.com/25d736533f8eeaa42566254bdbce0b44.png"> </a>
